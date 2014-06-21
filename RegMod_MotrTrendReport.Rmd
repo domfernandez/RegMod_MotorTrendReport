@@ -1,5 +1,5 @@
 ---
-title: "Report Analysis: mpg - automatic - manual"
+title: "Report Analysis: "
 author: "Dom Fernandez - Motr Trend, Sr. Analyst"
 date: "Saturday, June 21, 2014"
 output: html_document
